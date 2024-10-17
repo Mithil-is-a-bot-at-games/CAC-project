@@ -1,0 +1,18 @@
+body{
+    
+    background-color: #868383; /*#f6f6f6, EBEBD3, fafafa*/
+    font-family: Bungee Outline;
+    font-weight: 900;
+  
+    overflow: hidden;
+    animation: blur 0.5s ease-out;
+  
+  }
+  *{
+    outline: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
